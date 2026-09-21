@@ -1,15 +1,16 @@
-# Constitutive Minutes - Team [Number]
+# Constitutive Minutes - Team [3]
 
-**Date:**
+**Date:** 21/09/2026
 
-**Time:**
+**Time:** 14:00
 
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [Name 1]   | Design     |                 |
-|   [Name 2]   | CFD     |                 |
-|   [Name 3]   | Experimentation     |                 |
+|   [MANDELBAUM EMMA]   | Design     |                 |
+|   [LUNEL YOANN]   | Design     |                 |
+|   [PENIN ERWANN ROMAN]   | CFD     |                 |
+|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation     |                 |
 
 
 
