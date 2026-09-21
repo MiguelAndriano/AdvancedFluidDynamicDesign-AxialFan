@@ -26,4 +26,8 @@ Target specifications:
 - Rotational speed: 
 
 ## Team's work regulations:
+ Meeting Team :
 
+## Next Steps
+[] Every member has to list 3 fans in order of preference
+[] 
